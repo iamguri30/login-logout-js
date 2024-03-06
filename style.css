@@ -1,0 +1,15 @@
+.card-image{
+    padding: 15px 0 10px;
+}
+.card-bg-image{
+    height: 350px;
+    width: 90%;
+    margin: auto;
+    background-image: url(https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25072178/2023/9/20/70f306a6-3fdd-4e99-bd08-10d1767afcae1695179114363StormbornMenBrownPrintedPoloCollarPocketsT-shirt4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#logout{
+    display: none;
+}
